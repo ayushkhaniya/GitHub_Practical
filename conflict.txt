@@ -1,1 +1,1 @@
-This is the original version from master branch.
+This is the final resolved version after merging both branches.
